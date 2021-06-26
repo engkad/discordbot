@@ -1,11 +1,8 @@
-# discord bot
+# Discord bot, created by syntapse. Apologies for the bad programming, my python is pretty rusty.
+
 import os
 import discord
 import random
-import time
-import requests
-import json
-import asyncio
 
 from dotenv import load_dotenv
 from discord.ext import commands
