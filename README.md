@@ -1,0 +1,4 @@
+# discordbot
+## dependencies
+
+python
