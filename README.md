@@ -8,10 +8,10 @@ python3
 
 ### pip
 
-discord.py==1.7.2
-requests==2.23.0
-discord==1.7.3
-python-dotenv==0.18.0
+discord.py==1.7.2  
+requests==2.23.0  
+discord==1.7.3  
+python-dotenv==0.18.0  
 
 ## how to use
 
