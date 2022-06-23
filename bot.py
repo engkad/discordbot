@@ -1,4 +1,4 @@
-# Discord bot, created by syntapse. Apologies for the bad programming, my python is pretty rusty.
+# Discord bot, created by engkad. Apologies for the bad programming, my python is pretty rusty.
 
 import os
 import discord
